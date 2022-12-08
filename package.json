@@ -1,0 +1,14 @@
+{
+  "name": "recognition32162",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "xo s ⭐ លេងកាស៊ីណូ លេងបាល់ទាត់តាមអ៊ីនធឺណិតប្រកបដោយផាសុកភាព។ ត្រៀមមើលបាល់ទាត់ក្នុងគេហទំព័រតែមួយ",
+  "keywords": [
+    "xo s ⭐ លេងកាស៊ីណូ លេងបាល់ទាត់តាមអ៊ីនធឺណិតប្រកបដោយផាសុកភាព។ ត្រៀមមើលបាល់ទាត់ក្នុងគេហទំព័រតែមួយ"
+  ],
+  "repository": "https://github.com/chuweikian/recognition32162",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
